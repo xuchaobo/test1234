@@ -1,4 +1,7 @@
 haha
 test
 heihei
-cehsi 
+cehsi
+lenovo
+电脑
+困死了
